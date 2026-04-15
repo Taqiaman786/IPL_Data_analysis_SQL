@@ -38,6 +38,7 @@ CREATE DATABASE first_project;
 
 USE first_project;
 
+
 -- Fix date format after CSV import
 
 SET sql_safe_updates = 0;
