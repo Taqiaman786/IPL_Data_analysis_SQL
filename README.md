@@ -8,17 +8,27 @@ SQL_IPL_PROJECT.sql  	        All SQL queries — setup + analysis
 
 # 📦 About the Dataset
 •	Source: Kaggle
+
 •	Records: ~1,002 matches
+
 •	Seasons: 2008 – 2023
 
 # Key Columns
+
 •	season — IPL year
+
 •	home_team / away_team — Teams playing
+
 •	toss_won / decision — Toss result and choice (Bat/Bowl)
+
 •	first_inning_score / second_inning_score — Team scores
+
 •	winner — Match winner
+
 •	venue_name — Stadium and city
+
 •	pom — Player of the Match
+
 •	home_captain / away_captain — Team captains
 
 # 🛠️ Setup
